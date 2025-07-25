@@ -100,6 +100,7 @@ Try running the cleanup script, and then trying again.
 
 ## Contributing 🤝
 Contributions are welcome! Here are some ideas for improvements:
+- [ ] **Translate this to terraform code**: Use terraform instead for betterness
 - [ ] **Auto-configure Web UI credentials**: Print these to the console after deployment is complete
 - [ ] **Configure HTTPS**: Get syncthing to run over HTTPS
 - [ ] **Port to Alpine Linux:** Use Alpine Linux for reduced resource usage
