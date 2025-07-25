@@ -13,8 +13,8 @@ Before running the script, ensure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/one-click-syncthing-google-cloud.git
-cd one-click-syncthing-google-cloud
+git clone https://github.com/kingfly55/gcloud-syncthing-easy-install.git
+cd gcloud-syncthing-easy-install
 ```
 
 ### 2. Run the Installation Script
